@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sunil99k
+- 👋 Hi, I’m @Sunil
 - 👀 I’m interested in Devops Domain.
 - 🌱 I’m currently learning AWS, terraform, Scripts, Docker, Linux.
 - 💞️ I’m looking to collaborate on Devops Project.

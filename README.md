@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sunil
-- 👀 I’m interested in Devops Domain.
-- 🌱 I’m currently learning AWS, terraform, Scripts, Docker, Linux.
-- 💞️ I’m looking to collaborate on Devops Project.
+- 👀 I’m interested in ServiceNow Development.
+- 🌱 I’m currently learning Java Scripting, HTML, CSS.
+- 💞️ I’m looking to collaborate on ServiceNow Project.
 - 📫 How to reach me neelkadam99k@gmail.com
 
 <!---
